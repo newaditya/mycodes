@@ -1,0 +1,22 @@
+#if using for first time do (git init)    //i.e git initialization
+
+
+# Command for adding the repository (git remote add origin "link of git repository")
+
+
+# git remote -v (to check if repository is connected)
+
+git add filename or git add .(to add all the files)
+git commit "" (inside the quotation you can wite the comments for the file or push)
+git push origin master
+
+
+
+//////////////////////////////////////////////
+
+//name the bash file wtogit.sh
+//copy all the below in the file 
+
+git add filename
+git commit "comments you want to give"
+git push origin master
